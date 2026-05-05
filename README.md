@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Iae, Aquino aqui!
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o3ajh4NjlzcnB0eTEzeGY2d2I1N3ZyaWp4bHMyNnJ2eTc0ZXkzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tflXVZFW6vmJ8ycLRQ/giphy.gif" width="180px">
 
 💻 Desenvolvedor focado em **Web Development**  
 🚀 Atualmente estudando **Machine Learning**  
@@ -65,8 +66,12 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌐 Socials
 
+
+## 🌐 Socials
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXYzb3c0aGYxN2liMGlsZGxlNGlvazRjdDdzaWNuaTFqYTJ0dHgyaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3oFzmsANNWiz1ENuVy/giphy.gif" width="260px">
+</div>
 <div> 
   <a href="https://www.instagram.com/matheus_aquino04" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
