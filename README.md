@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div>
   <a href="https://github.com/Aquno">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquno&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-
+-->
 
 ---
 
